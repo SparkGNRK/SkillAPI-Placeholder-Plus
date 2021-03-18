@@ -1,1 +1,1 @@
-# Converting SkillAPI-Placeholder-Plus into a simple PlaceholderAPi expansion
+Converting SkillAPI-Placeholder-Plus into a simple PlaceholderAPi expansion
