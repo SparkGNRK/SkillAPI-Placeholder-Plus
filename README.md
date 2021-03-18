@@ -1,4 +1,4 @@
-# SkillAPI-Placeholder-Plus
+# SkillAPI-Placeholder-Plus (Updated to the latest PlaceholderAPI version)
 Extra PlaceholderAPI Placeholders For SkillAPI!
 
 This plugin was created due to a few people wanting it and the SkillAPI developer not being interested in adding to the the basic expansion.
