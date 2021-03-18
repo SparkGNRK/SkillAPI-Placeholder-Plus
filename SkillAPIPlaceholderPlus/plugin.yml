@@ -1,5 +1,0 @@
-name: SkillAPIPlaceholderPlus
-main: me.chalkie.terraprimal.SAPMain
-version: 1.50
-api-version: 1.13
-softdepend: [PlaceholderAPI, SkillAPI]
